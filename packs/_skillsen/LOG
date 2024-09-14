@@ -1,0 +1,26 @@
+2024/09/11-06:21:30.371 3c60 Recovering log #1128
+2024/09/11-06:21:30.376 3c60 Delete type=0 #180
+2024/09/11-06:21:30.376 3c60 Delete type=2 #182
+2024/09/11-06:21:30.376 3c60 Delete type=0 #861
+2024/09/11-06:21:30.376 3c60 Delete type=2 #863
+2024/09/11-06:21:30.376 3c60 Delete type=0 #902
+2024/09/11-06:21:30.376 3c60 Delete type=0 #944
+2024/09/11-06:21:30.377 3c60 Delete type=2 #946
+2024/09/11-06:21:30.377 3c60 Delete type=0 #949
+2024/09/11-06:21:30.377 3c60 Delete type=2 #951
+2024/09/11-06:21:30.377 3c60 Delete type=0 #971
+2024/09/11-06:21:30.377 3c60 Delete type=2 #973
+2024/09/11-06:21:30.377 3c60 Delete type=0 #1128
+2024/09/11-06:21:30.377 3c60 Delete type=3 #178
+2024/09/11-06:21:30.377 3c60 Delete type=3 #183
+2024/09/11-06:21:30.377 3c60 Delete type=3 #857
+2024/09/11-06:21:30.377 3c60 Delete type=3 #900
+2024/09/11-06:21:30.377 3c60 Delete type=3 #942
+2024/09/11-06:21:30.377 3c60 Delete type=3 #947
+2024/09/11-06:21:30.377 3c60 Delete type=3 #969
+2024/09/11-06:21:30.377 3c60 Delete type=3 #1126
+2024/09/11-06:27:49.986 7c7c Level-0 table #1133: started
+2024/09/11-06:27:49.986 7c7c Level-0 table #1133: 0 bytes OK
+2024/09/11-06:27:49.988 7c7c Delete type=0 #1131
+2024/09/11-06:27:49.994 7c7c Manual compaction at level-0 from '!folders!T8EjjafpseLIrqoT' @ 72057594037927935 : 1 .. '!items.effects!aYvUnCvmeOP3vlLn.NBPcA4PeMC6SD0OL' @ 0 : 0; will stop at (end)
+2024/09/11-06:27:49.994 7c7c Manual compaction at level-1 from '!folders!T8EjjafpseLIrqoT' @ 72057594037927935 : 1 .. '!items.effects!aYvUnCvmeOP3vlLn.NBPcA4PeMC6SD0OL' @ 0 : 0; will stop at (end)

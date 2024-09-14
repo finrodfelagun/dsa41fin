@@ -1,0 +1,23 @@
+{
+    "name": "dsa41fin",
+    "title": "DSA 4.1",
+    "description": "Ein Foundry VTT System für Das Schwarze Auge 4.1",
+    "version": "0.1.0",
+    "author": "Fin",
+    "minimumCoreVersion": "12",
+    "compatibleCoreVersion": "12",
+    "scripts": ["module/dsa41fin.js"],
+    "styles": ["css/dsa41fin.css"],
+    "languages": [
+      {
+        "lang": "de",
+        "name": "Deutsch",
+        "path": "lang/de.json"
+      }
+    ],
+    "packs": [],
+    "system": true,
+    "esmodules": [],
+    "manifest": "https://github.com/finrodfelagun/fVTT_DSA4_1/system.json",
+    "download": "https://github.com/finrodfelagun/fVTT_DSA4_1.git"
+  }
